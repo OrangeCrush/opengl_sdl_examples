@@ -1,6 +1,8 @@
 #include <SDL.h>
 #include <GL/gl.h>
 
+// gcc graphics.c $(sdl2-config --cflags --libs ) -lGL
+
 
 int main() {
    SDL_Window *window;
