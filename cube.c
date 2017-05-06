@@ -16,8 +16,8 @@ int main() {
       "An SDL2 window",                                // window title
       SDL_WINDOWPOS_UNDEFINED,                         // initial x position
       SDL_WINDOWPOS_UNDEFINED,                         // initial y position
-      640,                                             // width, in pixels
-      480,                                             // height, in pixels
+      0,                                             // width, in pixels
+      0,                                             // height, in pixels
       SDL_WINDOW_OPENGL|SDL_WINDOW_FULLSCREEN_DESKTOP  // flags - see below
    );
 
