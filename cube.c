@@ -1,7 +1,7 @@
 #include <SDL.h>
 #include <GL/gl.h>
 
-// gcc graphics.c $(sdl2-config --cflags --libs ) -lGL
+// gcc cube.c $(sdl2-config --cflags --libs ) -lGL
 
 /*
  * Rotate a multicolored cube.  One side changes colors
