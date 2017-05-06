@@ -14,3 +14,7 @@ Move a cube around in a plane
 ![float](img/float.jpg)
 
 
+## lighted_cube.c
+Move a cube around in a lighted plane
+
+![float](img/light.jpg)
