@@ -10,6 +10,7 @@ Rotate the cube with your arrow keys
 
 ## floating_cube.c
 Move a cube around in a plane
-![img/float.jpg](img/cube.jpg)
+
+![float](img/float.jpg)
 
 
