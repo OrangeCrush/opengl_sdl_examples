@@ -43,6 +43,7 @@ int main() {
    float light_position[] = {0,-1,0,1};
 
    glLightfv(GL_LIGHT0, GL_POSITION, light_position);
+   glLightf(GL_LIGHT0, GL_QUADRATIC_ATTENUATION, 0.5);
 
 
 
